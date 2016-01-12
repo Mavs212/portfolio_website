@@ -1,0 +1,32 @@
+body {
+  text-align: center;
+  background-color: #ffffe5;
+}
+
+p {
+  font-size: 125%;
+}
+
+.gif_imgs1{
+  width: 500px;
+  height: 400px;
+
+}
+
+.gif_imgs2{
+    width:  400px;
+    height: auto;
+    background-position: 50% 50%;
+    background-repeat:   no-repeat;
+    background-size:     cover;
+}
+
+
+.highlight{
+  background-color: red;
+}
+
+
+.page2h1{
+  font-weight: normal;
+}
